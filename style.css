@@ -1,0 +1,86 @@
+
+.left{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: whitesmoke;
+}
+
+.main{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: lightcyan;
+}
+
+.right{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: lightgoldenrodyellow;
+}
+
+
+
+.left .left{
+    padding:0px;
+    width:100%;
+    border:1px black solid;
+    background-color: pink;
+}
+
+.left .top{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: rgb(252, 149, 166);
+}
+
+.left .right{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: rgb(255, 100, 126);
+}
+
+.main .left{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: tomato;
+}
+
+.main .top{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: rgb(253, 80, 49);
+}
+
+.main .right{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: rgb(253, 69, 36);
+}
+
+.right .left{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: lightblue;
+}
+
+.right .top{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: rgb(133, 201, 224);
+}
+
+.right .right{
+    padding:20px;
+    width:50%;
+    border:1px black solid;
+    background-color: rgb(54, 182, 224);
+}
